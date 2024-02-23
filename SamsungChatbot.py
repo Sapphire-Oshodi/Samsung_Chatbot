@@ -79,7 +79,7 @@ def get_response(user_input):
 greetings = ["Hey There.... I am a creation of Sapphire the Code_girl.... How can I help",
             "Hi Human.... How can I help",
             'Twale baba nla, wetin dey happen nah',
-            'How far Alaye, wetin happen'
+            'How far Alaye, wetin happen',
             "Good Day .... How can I help",
             "Hello There... How can I be useful to you today",
             "Hi Student.... How can I be of use"]
