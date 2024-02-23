@@ -1,3 +1,4 @@
+!pip install nltk
 import nltk
 import random
 from sklearn.feature_extraction.text import TfidfVectorizer
